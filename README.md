@@ -36,7 +36,7 @@ I turn complex product requirements into clean, performant full-stack applicatio
 
 ## 🚀 About Me
 
-- 💼 **Senior Full-Stack Dev** at [NerdySoft](https://nerdysoft.com) since July 2023
+- 💼 **Senior Full-Stack Dev** 
 - 🌍 Building products for **EU & US** markets
 - 📐 I architect systems end-to-end: frontend → backend → mobile → infra
 - 👨‍💻 Led cross-functional teams, mentored juniors, set code review standards
@@ -45,12 +45,5 @@ I turn complex product requirements into clean, performant full-stack applicatio
 
 ---
 
-## 📊 GitHub Stats
-
-![vexnor's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancoMartin446&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoMartin446&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 > *"Ship it. Then make it better."*
